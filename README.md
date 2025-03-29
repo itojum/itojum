@@ -15,4 +15,4 @@ I enjoy web programming and VRChat.
 </div>
 
 ## Contact me
-[X - @itojun3502](https://x.com/itojun3502)
+[X - @itojum1230](https://x.com/itojum1230)
