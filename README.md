@@ -1,4 +1,4 @@
-## 🐱 About Itojun
+## 🐱 About Itojum
 Hi!, I am a college student.  
 I enjoy web programming and VRChat.
 
