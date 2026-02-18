@@ -10,4 +10,5 @@ I enjoy web programming and VRChat.
 
 ## Links
 [itojum.dev](https://itojum.dev/)
+
 [X - @itojum1230](https://x.com/itojum1230)
