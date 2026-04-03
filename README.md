@@ -1,5 +1,5 @@
 ## 🐱 About Itojum
-Hi!, I am a college student.  
+Hi!, I am a product engineer.  
 I enjoy web programming and VRChat.
 
 ### 🌱 My Skills
